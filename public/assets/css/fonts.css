@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'franklin';
+    font-weight: 500;
+    src: url(../fonts/FranklinGothic.ttf);
+}
+@font-face {
+    font-family: 'franklin-medium';
+    font-weight: 500;
+    src: url(../fonts/Franklin\ Gothic\ Medium\ Regular.ttf);
+}
